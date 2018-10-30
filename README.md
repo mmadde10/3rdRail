@@ -1,20 +1,20 @@
 # third-rail
 
-FIXME: description
+An API Wrapper for Transit API's
 
-## Installation
+A third rail is a method of providing electric power to a railway locomotive or train
 
-Download from http://example.com/FIXME.
+![third-rail](https://cdn1.creativecirclemedia.com/liherald/original/1498679414_181d.jpg "Third Rail")
 
 ## Usage
 
-FIXME: explanation
+A Clojar add `[third-rail "0.1.0"]` to your dependencies
 
-    $ java -jar third-rail-0.1.0-standalone.jar [args]
+This library is a wrapper around some transportation API's and formats it into JSON
 
 ## Options
 
-FIXME: listing of options this app accepts.
+...
 
 ## Examples
 
@@ -22,15 +22,11 @@ FIXME: listing of options this app accepts.
 
 ### Bugs
 
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+... 
 
 ## License
 
-Copyright © 2018 FIXME
+Copyright © 2018 Mark Madden
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
